@@ -108,11 +108,16 @@ Software
 🔗 Links
 Email: kalelthelsok@gmail.com
 
----
+📁 Documentation
+
+- [Wiring Diagrams](docs/wiring_diagrams.md) – Complete wiring diagrams for all modules
+- [Hardware BOM](docs/hardware_bom.md) – Complete Bill of Materials
+- [System Architecture](docs/system_architecture.md) – Technical system design
+- [Logo](images/logo.png) – Project logo
 
 📧 Contact
 
-**Nasara John**  
+Nasara John
 Founder & Lead Developer, Examinator  
 Email: kalelthelsok@gmail.com
 
